@@ -7,9 +7,10 @@ public class MyApp {
 		Coach theCoach = new TrackCoach();
 		
 		
-		
+	
 		// use the object
 		System.out.println(theCoach.getDailyWorkout());
+		
 
 	}
 
